@@ -20,7 +20,8 @@ After identifying key usability issues in the original Fantuan app, a wireframe 
 1. Phase 1 Report
 2. Phase 2 Report
 3. Phase 3 Report
-4. Link to Figma Prototype Demo 
+4. Figma Prototype
+5. Link to Figma Demo (https://www.figma.com/proto/br3FmSSLA73uwM34VpLKcN/FANTUAN?node-id=1-5&starting-point-node-id=1%3A5&t=9WR2knpxNhxjGYEp-1)
 
 
 
