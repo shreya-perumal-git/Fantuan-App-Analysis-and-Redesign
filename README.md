@@ -18,4 +18,3 @@ After identifying key usability issues in the original Fantuan app, a wireframe 
 
 ### Prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/br3FmSSLA73uwM34VpLKcN/FANTUAN?node-id=1-5&starting-point-node-id=1%3A5&embed-host=share" allowfullscreen></iframe>
