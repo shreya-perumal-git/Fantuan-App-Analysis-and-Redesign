@@ -16,5 +16,11 @@ Each phase builds on the previous one, combining human factors methods with team
 After identifying key usability issues in the original Fantuan app, a wireframe prototype was created using Figma and evaluated by University of Toronto students to determine the usability issues in the developed prototype.
 
 
-### Prototype
+### Project Contents
+1. Phase 1 Report
+2. Phase 2 Report
+3. Phase 3 Report
+4. Link to Figma Prototype Demo 
+
+
 
